@@ -1,9 +1,9 @@
 :root{
-    --cor-fundo: #a26fff;
-    --cor-principal: #6f00ff ;
-    --cor-secundaria: #691865;
-    --cor-destaque: #a44bec;
-    --cor-texto: #e39bff;
+    --cor-fundo: #01080E;
+    --cor-principal: #0B0D20 ;
+    --cor-secundaria: #212333;
+    --cor-destaque: #2BDEFD;
+    --cor-texto: #D7F9FF;
 }
 
 body{
