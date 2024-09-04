@@ -13,8 +13,8 @@ const perguntas = [
                 afirmacao: "O aumento contínuo da demanda por serviços de saúde, devido ao crescimento populacional e ao envelhecimento da população, sobrecarrega o sistema, que não consegue acompanhar essas mudanças com o financiamento e infraestrutura adequados."
             },
             {
-                texto:  "Prestando atenção aos sinais de cyberbullying nas escolas.",
-                afirmacao: "Você é uma pessoa observadora, pois se preocupa com o bem estar dos seus alunos."
+                texto:  "Financiamento insuficiente.",
+                afirmacao: "Os orçamentos destinados ao setor não são suficientes para cobrir as necessidades básicas, como medicamentos, equipamentos e infraestrutura."
             }    
            
         ]
