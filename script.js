@@ -54,7 +54,7 @@ function respostaSelecionada(opcaoSelecionada){
 }
 
 function mostraResultado(){
-    caixaPerguntas.textContent = "Olha só o que podemos afirmar sobre você...";
+    caixaPerguntas.textContent = "Olha só o porque dessa opção...";
     textoResultado.innerHTML = historiaFinal;
     caixaAlternativas.innerHTML = "";
 }
